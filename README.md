@@ -1,8 +1,8 @@
-My first mini project, which i build during 3rd sem in GEU pursuing B.tech CSE
-In this mini project, I learned about GEE (Google Earth Engine), and its code editor, and saw the fascinating satellitle imagery manipulation through
-Javascript language, where i picked my hometown rishikesh, and classifies its Land cover as:
+My first mini project, which I build during 3rd sem in GEU pursuing B.tech CSE
+In this mini project, I learned about GEE (Google Earth Engine), and its code editor, and saw the fascinating satellite imagery manipulation through
+Javascript language, where I picked my hometown rishikesh, and classifies its Land cover as:
  1. Water
- 2.Forest
+ 2. Forest
  3. Urban
  4.  Baren land
  5.  Agriculture
