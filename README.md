@@ -6,6 +6,7 @@ Javascript language, where I picked my hometown rishikesh, and classifies its La
  3. Urban
  4.  Baren land
  5.  Vegetation
+ 6.  Dry soil
 
 
 Bands used - 11-4-8
