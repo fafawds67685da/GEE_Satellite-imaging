@@ -5,7 +5,11 @@ Javascript language, where I picked my hometown rishikesh, and classifies its La
  2. Forest
  3. Urban
  4.  Baren land
- 5.  Agriculture
+ 5.  Vegetation
+
+
+Bands used - 11-4-8
+             11-8-2
 
 Then i fed that dataset to RandomForest classifier ML model, and presented the result on the map.
 
